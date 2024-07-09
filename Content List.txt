@@ -1,0 +1,7 @@
+The most beautiful equation in math
+Bertrand's Ballot Problem
+Dijkstra's algorithm
+Pigeonhole Principle
+Palindrome Numbers-Mathematical Reasoning
+Information theory
+Chaos Theory
